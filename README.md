@@ -29,7 +29,7 @@ To get a local copy up and running, follow these simple steps.
 
 1. Clone the repo
    ```sh
-   git clone [https://github.com/your-Ajoy-paul11/TodoUsingContextAPI.git](https://github.com/Ajoy-paul11/TodoUsingContextAPI.git)
+   git clone [https://github.com/Ajoy-paul11/TodoUsingContextAPI.git](https://github.com/Ajoy-paul11/TodoUsingContextAPI.git)
    ```
 2. Navigate to the project
     ```sh
@@ -47,14 +47,6 @@ To get a local copy up and running, follow these simple steps.
 
 ---
 Simply start by adding a new todo using the input field at the top of the app. Todos can be edited by clicking on the text, deleted using the delete button, and marked as complete by checking the box next to each todo.
-
-## Built With
-
----
-*  React: A JavaScript library for building user interfaces.
-*  Vite: A build tool that aims to provide a faster and leaner development experience for modern web projects.
-*  TailwindCSS: A utility-first CSS framework for rapidly building custom designs.
-*  LocalStorage: Web Storage API used for storing data across browser sessions.
 
 ## Contact
 
